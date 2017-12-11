@@ -1,6 +1,6 @@
 # ARKit - AR / VR 空間をスイッチさせるサンプル
 
-![タップで AR / VR をスイッチ](fig.png)]
+![タップで AR / VR をスイッチ](fig.png)
 
 　
 
